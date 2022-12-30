@@ -29,7 +29,7 @@
 		if($res2){
 			header('Location: index.php');
 		}else{
-			echo 'value insert error!';
+			//echo 'value insert error!';
 		}
 		
 	}
